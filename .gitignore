@@ -1,0 +1,16 @@
+*.csv
+*.zip
+*.xlsx
+*.xls
+*.tar
+*.gz
+*.7z
+*.rar
+*.log
+*.tmp
+*.bak
+*.json
+*.html
+*.xml
+/dags/__pycache__/
+/dags/*.pyc
