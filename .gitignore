@@ -14,3 +14,4 @@
 *.xml
 /dags/__pycache__/
 /dags/*.pyc
+/logs
